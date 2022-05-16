@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="article_list_title">NY Times Most Popular</string>
+</resources>
